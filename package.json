@@ -1,0 +1,12 @@
+{
+  "name": "bobs-bagels-pair-programming-nick-parsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node specRunner.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
