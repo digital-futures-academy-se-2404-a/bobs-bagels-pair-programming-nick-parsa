@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node specRunner.js"
+    "start": "node src/index.js",
+    "test": "node spec/specRunner.js"
   },
   "author": "",
   "license": "ISC"
